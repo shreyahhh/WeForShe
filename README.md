@@ -1,12 +1,3 @@
-**PROTOTYPE VIDEO**
-
-https://www.canva.com/design/DAGLCgYFCS8/KaSTf4pOiMlpvUhQrCAqpA/edit?utm_content=DAGLCgYFCS8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-**DETAILED EXPLANATION VIDEO**
-
-https://www.canva.com/design/DAGLBrWFlxo/iit_6bExVSrarAOE7wzknw/edit?utm_content=DAGLBrWFlxo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-
 **Project Overview**
 
 This project provides personalized fashion and beauty recommendations based on a user's body type and skin tone. Using HTML, CSS, JavaScript, and Flask, and leveraging a dataset from Myntra available on Kaggle, we aim to enhance users' fashion choices.
